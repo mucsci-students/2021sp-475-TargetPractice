@@ -7,7 +7,7 @@ Play on Windows:
 3. Play and enjoy the game!
 
 Play on Mac:
-1.Unzip the "TargetPractice-Mac.zip" folder.
+1. Unzip the "TargetPractice-Mac.zip" folder.
 2. Open up a terminal located inside the project folder.
 3. Type the following commands:
   cd TargetPractice-Mac/TargetPractice-Mac.app/Contents/MacOS
